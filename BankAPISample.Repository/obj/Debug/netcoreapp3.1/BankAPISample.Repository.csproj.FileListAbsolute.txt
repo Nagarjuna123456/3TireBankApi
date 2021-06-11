@@ -1,0 +1,12 @@
+D:\BankAPISample\BankAPISample.Repository\bin\Debug\netcoreapp3.1\BankAPISample.Repository.deps.json
+D:\BankAPISample\BankAPISample.Repository\bin\Debug\netcoreapp3.1\BankAPISample.Repository.dll
+D:\BankAPISample\BankAPISample.Repository\bin\Debug\netcoreapp3.1\BankAPISample.Repository.pdb
+D:\BankAPISample\BankAPISample.Repository\obj\Debug\netcoreapp3.1\BankAPISample.Repository.csprojAssemblyReference.cache
+D:\BankAPISample\BankAPISample.Repository\obj\Debug\netcoreapp3.1\BankAPISample.Repository.AssemblyInfoInputs.cache
+D:\BankAPISample\BankAPISample.Repository\obj\Debug\netcoreapp3.1\BankAPISample.Repository.AssemblyInfo.cs
+D:\BankAPISample\BankAPISample.Repository\obj\Debug\netcoreapp3.1\BankAPISample.Repository.csproj.CoreCompileInputs.cache
+D:\BankAPISample\BankAPISample.Repository\obj\Debug\netcoreapp3.1\BankAPISample.Repository.dll
+D:\BankAPISample\BankAPISample.Repository\obj\Debug\netcoreapp3.1\BankAPISample.Repository.pdb
+D:\BankAPISample\BankAPISample.Repository\bin\Debug\netcoreapp3.1\BankAPISample.Service.dll
+D:\BankAPISample\BankAPISample.Repository\bin\Debug\netcoreapp3.1\BankAPISample.Service.pdb
+D:\BankAPISample\BankAPISample.Repository\obj\Debug\netcoreapp3.1\BankAPISample.Repository.csproj.CopyComplete
